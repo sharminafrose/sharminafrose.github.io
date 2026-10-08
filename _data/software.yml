@@ -1,0 +1,10 @@
+# Software releases, rendered on /software/ via _includes/cv_table.liquid.
+
+- title: Software Releases
+  entries:
+    - year: 2026
+      text: <strong>ChatQEC</strong>. <a href="https://code.ornl.gov/qsc-as/chatqec">code.ornl.gov/qsc-as/chatqec</a>
+    - year: 2026
+      text: <strong>Agentic-MLIR-to-QIR</strong>. <a href="https://code.ornl.gov/mach-q/quantum-mlir-taxonomy/agentic_mlir_qir">code.ornl.gov/mach-q/quantum-mlir-taxonomy/agentic_mlir_qir</a>
+    - year: 2026
+      text: <strong>Qweaver</strong>. <a href="https://code.ornl.gov/mach-q/quantum-mlir-taxonomy/mlir-cut">code.ornl.gov/mach-q/quantum-mlir-taxonomy/mlir-cut</a>

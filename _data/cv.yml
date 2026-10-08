@@ -1,0 +1,114 @@
+# CV page data (RenderCV format), rendered by the al_folio_cv plugin on /cv/.
+# Source of truth: the LaTeX CV. Publications, awards, mentoring, and software
+# have dedicated pages, so this file keeps the narrative CV sections only.
+cv:
+  name: Sharmin Afrose
+  label: R&D Staff, Oak Ridge National Laboratory
+  location: Oak Ridge, TN
+  website: https://sharminafrose.github.io
+  summary: >-
+    R&D staff at Oak Ridge National Laboratory working on agentic AI for quantum computing,
+    machine learning for healthcare, and distributed quantum computing.
+
+  sections:
+    Research Areas:
+      - label: Agentic AI for Quantum Computing
+        details: ChatQEC, OrcheQ, multi-agent quantum code generation, optimization, and error correction
+      - label: Machine Learning for Healthcare
+        details: Subgroup-aware and interpretable suicide risk prediction, algorithmic bias and fairness
+      - label: Distributed Quantum Computing
+        details: Agentic MLIR-to-QIR translation, quantum circuit cutting, QIR execution engines
+      - label: Privacy and Security
+        details: Local differential privacy, cryptographic API misuse detection, privacy-preserving federated learning
+
+    Experience:
+      - company: Oak Ridge National Laboratory
+        position: Research and Development Staff
+        location: Oak Ridge, TN
+        start_date: 2026-03
+        highlights:
+          - "Agentic AI on Quantum Computing: Leading the Quantum Science Center's (QSC) AI-for-quantum software work. Developing ChatQEC, which grounds every answer in cited literature so users can verify it, and OrcheQ, a multi-agent system for quantum circuit code generation, optimization, and quantum error correction."
+          - "Suicide Predictive Modeling: Developed a subgroup-aware risk prediction method that keeps the model interpretable, so clinicians can act on the predictions, for the US Department of Veterans Affairs (VA) population."
+          - "Distributed Quantum Computing: Built an agentic MLIR-to-QIR translation pipeline with dual-backend verification and an end-to-end quantum circuit cutting pipeline. Releasing two tools under MACH-Q: Agentic-MLIR-to-QIR and Qweaver/mlir-cut."
+
+      - company: Oak Ridge National Laboratory
+        position: Postdoctoral Research Associate
+        location: Oak Ridge, TN
+        start_date: 2023-03
+        end_date: 2026-02
+        highlights:
+          - Focusing on predictive machine learning models and biostatistical methods to identify high-risk individuals for suicide using US Department of Veterans Affairs (VA) data, ensuring model effectiveness and fairness across subgroups. Quantification and mitigation of bias on whole US patient-level studies.
+          - Designing a cross-platform Quantum Intermediate Representation Execution Engine (QIR-EE) to enable hardware-agnostic quantum workflows. Explored MLIR-based optimizations to enhance quantum program compilation and execution.
+          - Developing a high-performance, privacy-preserving federated learning (FL) framework for scientific applications, funded by a SEED proposal award. Utilized HPC resource (Frontier Supercomputer) to utilize distributed parallel training on multiple GPU nodes for multiple clients in FL setup. Investigated sketching techniques to enhance scalability and communication efficiency in distributed FL environments.
+
+      - company: Virginia Tech
+        position: Graduate Research Assistant
+        location: Blacksburg, VA
+        start_date: 2018-08
+        end_date: 2022-12
+        highlights:
+          - Analyzed bias among different demographic subgroups (e.g., ethnicity, age group, and gender) for imbalanced MIMIC III and SEER clinical datasets
+          - Analyzed bias in different prediction tasks (e.g., in-hospital mortality prediction, decompensation prediction using MIMIC III dataset, and breast and lung cancer survivability prediction using SEER dataset)
+          - Designed a double prioritized (DP) technique to reduce the bias and improve prediction accuracy among minority subgroups (e.g., Asian, African American, and older populations)
+          - Developed CryptoAPI-Bench benchmark to identify the limitations of Java cryptographic vulnerability detection tools. Parfait (crypto vulnerability detection tool by Oracle) is also used our benchmark to improve and compare their tools
+          - Contributed to improving CryptoGuard (a static analysis tool to detect cryptographic vulnerability in Java program)
+
+      - company: Oak Ridge National Laboratory
+        position: ORISE Summer Intern
+        location: Oak Ridge, TN
+        start_date: 2021-06
+        end_date: 2021-08
+        highlights:
+          - Comparative analysis of different LDP frameworks including distribution-based queries, randomized response-based approaches, count sketch-based approaches for IoT-based streaming data
+
+      - company: Virginia Tech
+        position: Graduate Teaching Assistant
+        location: Blacksburg, VA
+        start_date: 2020-01
+        end_date: 2020-05
+        highlights:
+          - "Assisted with teaching, grading on the course Principle Computer Security"
+
+      - company: BRAC University
+        position: Lecturer
+        location: Dhaka, Bangladesh
+        start_date: 2015-09
+        end_date: 2018-07
+        highlights:
+          - Conducted several courses (e.g., Operating System, Programming Language, Data Structure) and mentored students
+          - Research on measuring the reliability or correctness of the Twitter post using Natural Language Processing (NLP)
+
+      - company: Bangladesh University of Engineering and Technology
+        position: Research Assistant
+        location: Dhaka, Bangladesh
+        start_date: 2014-09
+        end_date: 2016-09
+        highlights:
+          - Developed a secret sharing approach to compute the probability of a patient developing diseases without revealing sensitive data
+          - Designed a system to mine frequent itemsets using local differential privacy without revealing personal sensitive itemsets
+
+    Education:
+      - institution: Virginia Tech
+        location: Blacksburg, VA
+        studyType: PhD
+        area: Computer Science and Application
+        start_date: 2018-08
+        end_date: 2022-12
+        highlights:
+          - "Dissertation: Methodology Development for Improvement of Critical Classification Applications"
+          - "Supervisor: Danfeng (Daphne) Yao"
+
+      - institution: Bangladesh University of Engineering and Technology
+        location: Dhaka, Bangladesh
+        studyType: BS
+        area: Computer Science and Engineering
+        start_date: 2010-01
+        end_date: 2015-12
+
+    Technical Skills:
+      - label: Programming
+        details: Python, SQL, Java, C, C++, MATLAB, Assembly, RUST, Julia, R, PHP
+      - label: AI/ML
+        details: Machine Learning (XGBoost, Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, Ensemble, Anomaly detection), Deep Learning (TabNet, CNN, MLP, LSTM, GAN, Transformer, NLP), TensorFlow, PyTorch, Keras and other libraries
+      - label: Generative AI Tools
+        details: GitHub Copilot, ChatGPT, Liner, Adobe AI Assistant

@@ -1,0 +1,24 @@
+# Rendered by _includes/cv_table.liquid on /service/.
+# Each section: title + entries (year, optional role, text). HTML allowed in text.
+
+- title: Mentoring
+  note: Mentored/co-mentored 3 summer students at ORNL, all reaching peer-reviewed submissions.
+  entries:
+    - year: 2026
+      role: Mentor
+      text: Nirajan Banjade (Texas State University), PCIP'26&#58; Quantum LLM-Wiki
+    - year: 2026
+      role: Mentor
+      text: Romit Ghosh (Rutgers University), SULI'26&#58; Hybrid Quantum-Classical Benchmarking
+    - year: 2026
+      role: Mentor
+      text: Sangram Deshpande (NC State University), PQCIP'26&#58; Quantum Hardware-aware Circuit Mapping
+
+- title: Volunteer Work
+  entries:
+    - year: 2026
+      role: Volunteer
+      text: NQISRC booth, IEEE Quantum Week, Toronto, Canada
+    - year: 2026
+      role: Judge
+      text: Middle school STEM fair, Annoor Academy of Knoxville

@@ -1,0 +1,23 @@
+# Rendered by _includes/cv_table.liquid on /awards/.
+# Each section: title + entries (year, optional role, text). HTML allowed in text.
+
+- title: Honors and Awards
+  entries:
+    - year: 2026
+      text: <a href="https://www.ornl.gov/news/ieee-honors-ornl-quantum-ecosystem-collaborations">Distinguished Synergy Award (ORNL Quantum Team)</a>, IEEE Quantum Technical Community (QTC)
+    - year: 2026
+      text: Winning Team, Explainable Suicide Risk Detection Challenge, IEEE Big Data 2026 Challenge
+    - year: 2023
+      text: Best Presentation Award, ORNL Software and Data Expo (OSDX)
+    - year: 2022
+      text: Participant, Scholarship from Association for Women in Computing (AWC), Grace Hopper Celebration (GHC)
+    - year: 2021
+      text: Participant, selected from CRA-W Grad Cohort Workshop for Women
+    - year: 2019
+      text: Participant, travel grant from CRA-W Grad Cohort Workshop for Women
+    - year: 2015
+      text: Undergrad Thesis Poster Award, Bangladesh University of Engineering and Technology
+    - year: 2011&ndash;2015
+      text: Dean's List Award, Bangladesh University of Engineering and Technology
+    - year: 2011&ndash;2015
+      text: Merit Scholarship, Bangladesh University of Engineering and Technology

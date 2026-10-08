@@ -1,0 +1,12 @@
+# Venue badges link to these URLs (keys match `abbr` in the .bib files).
+"OSDX":
+  url: https://softwaredataexpo.ornl.gov/
+
+"CCS":
+  url: https://www.sigsac.org/ccs.html
+
+"SecDev":
+  url: https://secdev.ieee.org/
+
+"PST":
+  url: https://pstnet.ca/
