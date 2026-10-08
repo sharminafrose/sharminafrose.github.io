@@ -6,7 +6,7 @@ Personal website of Sharmin Afrose, built with [al-folio](https://github.com/als
 
 | Content | File |
 | --- | --- |
-| About page bio and photo | `_pages/about.md`, `assets/img/prof_pic.jpg` (currently a placeholder) |
+| About page bio and photo | `_pages/about.md`, `assets/img/prof_pic.jpg` |
 | Papers and presentations | `_bibliography/papers.bib`, `presentations.bib` |
 | CV page (web) | `_data/cv.yml` |
 | CV PDF | `assets/pdf/AfroseS_CV.pdf` |

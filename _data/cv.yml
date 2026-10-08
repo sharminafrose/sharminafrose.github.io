@@ -27,7 +27,7 @@ cv:
         location: Oak Ridge, TN
         start_date: 2026-03
         highlights:
-          - "Agentic AI on Quantum Computing: Leading the Quantum Science Center's (QSC) AI-for-quantum software work. Developing ChatQEC, which grounds every answer in cited literature so users can verify it, and OrcheQ, a multi-agent system for quantum circuit code generation, optimization, and quantum error correction."
+          - "Agentic AI on Quantum Computing: Key researcher on the Quantum Science Center's (QSC) AI-for-quantum software work. Developing ChatQEC, which grounds every answer in cited literature so users can verify it, and OrcheQ, a multi-agent system for quantum circuit code generation, optimization, and quantum error correction."
           - "Suicide Predictive Modeling: Developed a subgroup-aware risk prediction method that keeps the model interpretable, so clinicians can act on the predictions, for the US Department of Veterans Affairs (VA) population."
           - "Distributed Quantum Computing: Built an agentic MLIR-to-QIR translation pipeline with dual-backend verification and an end-to-end quantum circuit cutting pipeline. Releasing two tools under MACH-Q: Agentic-MLIR-to-QIR and Qweaver/mlir-cut."
 

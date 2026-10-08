@@ -6,7 +6,7 @@ subtitle: R&D Staff, Oak Ridge National Laboratory, 1 Bethel Valley Rd, Oak Ridg
 
 profile:
   align: right
-  image: prof_pic.jpg # placeholder; replace assets/img/prof_pic.jpg with your photo
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 social: false # social icons are shown in the navbar instead
@@ -22,7 +22,7 @@ I am an R&D staff member at Oak Ridge National Laboratory (ORNL), where I work o
 
 My current work includes:
 
-- **Agentic AI for quantum computing.** I lead the Quantum Science Center's AI-for-quantum software work, including ChatQEC, which grounds every answer in cited literature so users can verify it, and OrcheQ, a multi-agent system for quantum circuit code generation, optimization, and quantum error correction.
+- **Agentic AI for quantum computing.** I am a key researcher on the Quantum Science Center's AI-for-quantum software work, including ChatQEC, which grounds every answer in cited literature so users can verify it, and OrcheQ, a multi-agent system for quantum circuit code generation, optimization, and quantum error correction.
 - **Suicide predictive modeling.** I develop subgroup-aware, interpretable risk prediction methods for the US Department of Veterans Affairs (VA) population, with a focus on model fairness and bias across patient subgroups.
 - **Distributed quantum computing.** I build an agentic MLIR-to-QIR translation pipeline with dual-backend verification and an end-to-end quantum circuit cutting pipeline, released under MACH-Q as Agentic-MLIR-to-QIR and Qweaver.
 
