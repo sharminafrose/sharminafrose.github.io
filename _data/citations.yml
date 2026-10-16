@@ -1,3 +1,119 @@
 metadata:
-  last_updated: ''
-papers: {}
+  last_updated: '2026-10-16'
+papers:
+  HuC2ds0AAAAJ:2osOgNQ5qMEC:
+    citations: 243
+    title: 'Cryptoguard: High precision detection of cryptographic vulnerabilities in massive-sized java projects'
+    year: '2019'
+  HuC2ds0AAAAJ:3fE2CSJIrl8C:
+    citations: 17
+    title: 'Ecologies of use and design: individual and social practices of mobile phone use within low-literate rickshawpuller communities in urban Bangladesh'
+    year: '2013'
+  HuC2ds0AAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: 'Learning-Based Quantum Compilation: Translating QASM to QIR with CodeBERT'
+    year: '2025'
+  HuC2ds0AAAAJ:8k81kl-MbHgC:
+    citations: 3
+    title: 'Tutorial: Principles and Practices of Secure Cryptographic Coding in Java'
+    year: '2020'
+  HuC2ds0AAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Protecting Genomic Privacy in Medical Tests using Distributed Storage
+    year: Unknown Year
+  HuC2ds0AAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'Poster: Semantic Clustering in Credible Human Sensed Event Detection'
+    year: '2018'
+  HuC2ds0AAAAJ:KlAtU1dfN6UC:
+    citations: 1
+    title: Incorporating Collaboration into the Design of Mobile Phones for the People with Low Literacy
+    year: Unknown Year
+  HuC2ds0AAAAJ:LkGwnXOMwfcC:
+    citations: 3
+    title: 'Poster: Deployment-quality and accessible solutions for cryptography code development'
+    year: '2019'
+  HuC2ds0AAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Subgroup-aware suicide risk prediction via functionally adaptive interaction regularized regression
+    year: '2026'
+  HuC2ds0AAAAJ:MXK_kJrjxJIC:
+    citations: 2
+    title: A QIR Toolchain with XACC
+    year: '2023'
+  HuC2ds0AAAAJ:Se3iqnhoufwC:
+    citations: 1
+    title: 'Poster: Scientific Comparison on Accuracy and Scalability of Cryptographic API Misuse Detection'
+    year: '2022'
+  HuC2ds0AAAAJ:Tyk-4Ss8FVUC:
+    citations: 2
+    title: A novel secret sharing approach for privacy-preserving authenticated disease risk queries in genomic databases
+    year: '2018'
+  HuC2ds0AAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Qir-Ee
+    year: '2025'
+  HuC2ds0AAAAJ:UeHWp8X0CEIC:
+    citations: 5
+    title: "Being the developers\u2019 friend: Our experience developing a high-precision tool for secure coding"
+    year: '2022'
+  HuC2ds0AAAAJ:UebtZRa9Y70C:
+    citations: 2
+    title: Deployment-quality and Accessible Solutions for Cryptography Code Development
+    year: '2020'
+  HuC2ds0AAAAJ:WF5omc3nYNoC:
+    citations: 77
+    title: Subpopulation-specific machine learning prognosis for underrepresented patients with double prioritized bias correction
+    year: '2022'
+  HuC2ds0AAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Dynamical Sketching for Enhanced Communication Efficiency in Federated Learning
+    year: '2025'
+  HuC2ds0AAAAJ:YsMSGLbcyi4C:
+    citations: 2
+    title: A Comprehensive Benchmark on Java Cryptographic API Misuses
+    year: '2020'
+  HuC2ds0AAAAJ:Zph67rFs4hoC:
+    citations: 15
+    title: Low responsiveness of machine learning models to critical or deteriorating health conditions
+    year: '2025'
+  HuC2ds0AAAAJ:_FxGoFyzp5QC:
+    citations: 2
+    title: Towards privacy-preserving authenticated disease risk queries
+    year: '2019'
+  HuC2ds0AAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: 'Quantum-Rag: Retrieval-Augmented Generation Framework for Quantum Circuit Code Generation'
+    year: '2026'
+  HuC2ds0AAAAJ:d1gkVwhDpl0C:
+    citations: 9
+    title: A cross-platform execution engine for the quantum intermediate representation
+    year: '2025'
+  HuC2ds0AAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Towards Privacy-preserving Authenticated Disease Risk Queries
+    year: '2019'
+  HuC2ds0AAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Methodology Development for Improving the Performance of Critical Classification Applications
+    year: '2023'
+  HuC2ds0AAAAJ:qxL8FJ1GzNcC:
+    citations: 1
+    title: Algorithmic bias in suicide risk prediction models
+    year: '2025'
+  HuC2ds0AAAAJ:roLk4NBRz8UC:
+    citations: 13
+    title: Frequent itemsets mining with a guaranteed local differential privacy in small datasets
+    year: '2021'
+  HuC2ds0AAAAJ:u5HHmVD_uO8C:
+    citations: 66
+    title: 'CryptoAPI-Bench: A comprehensive benchmark on Java cryptographic API misuses'
+    year: '2019'
+  HuC2ds0AAAAJ:ufrVoPGSRksC:
+    citations: 65
+    title: Evaluation of static vulnerability detection tools with Java cryptographic API benchmarks
+    year: '2022'
+  HuC2ds0AAAAJ:zYLM7Y9cAGgC:
+    citations: 4
+    title: Measurement of local differential privacy techniques for iot-based streaming data
+    year: '2021'
