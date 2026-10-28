@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-10-19'
+  last_updated: '2026-10-28'
 papers:
   HuC2ds0AAAAJ:2osOgNQ5qMEC:
-    citations: 244
+    citations: 246
     title: 'Cryptoguard: High precision detection of cryptographic vulnerabilities in massive-sized java projects'
     year: '2019'
   HuC2ds0AAAAJ:3fE2CSJIrl8C:
@@ -82,7 +82,7 @@ papers:
     title: Towards privacy-preserving authenticated disease risk queries
     year: '2019'
   HuC2ds0AAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 2
     title: 'Quantum-Rag: Retrieval-Augmented Generation Framework for Quantum Circuit Code Generation'
     year: '2026'
   HuC2ds0AAAAJ:d1gkVwhDpl0C:
