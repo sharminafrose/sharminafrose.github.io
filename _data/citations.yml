@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-10-28'
+  last_updated: '2026-11-11'
 papers:
   HuC2ds0AAAAJ:2osOgNQ5qMEC:
-    citations: 246
+    citations: 248
     title: 'Cryptoguard: High precision detection of cryptographic vulnerabilities in massive-sized java projects'
     year: '2019'
   HuC2ds0AAAAJ:3fE2CSJIrl8C:
@@ -62,7 +62,7 @@ papers:
     title: Deployment-quality and Accessible Solutions for Cryptography Code Development
     year: '2020'
   HuC2ds0AAAAJ:WF5omc3nYNoC:
-    citations: 77
+    citations: 78
     title: Subpopulation-specific machine learning prognosis for underrepresented patients with double prioritized bias correction
     year: '2022'
   HuC2ds0AAAAJ:YOwf2qJgpHMC:
@@ -74,7 +74,7 @@ papers:
     title: A Comprehensive Benchmark on Java Cryptographic API Misuses
     year: '2020'
   HuC2ds0AAAAJ:Zph67rFs4hoC:
-    citations: 15
+    citations: 16
     title: Low responsiveness of machine learning models to critical or deteriorating health conditions
     year: '2025'
   HuC2ds0AAAAJ:_FxGoFyzp5QC:
@@ -106,11 +106,11 @@ papers:
     title: Frequent itemsets mining with a guaranteed local differential privacy in small datasets
     year: '2021'
   HuC2ds0AAAAJ:u5HHmVD_uO8C:
-    citations: 66
+    citations: 67
     title: 'CryptoAPI-Bench: A comprehensive benchmark on Java cryptographic API misuses'
     year: '2019'
   HuC2ds0AAAAJ:ufrVoPGSRksC:
-    citations: 66
+    citations: 67
     title: Evaluation of static vulnerability detection tools with Java cryptographic API benchmarks
     year: '2022'
   HuC2ds0AAAAJ:zYLM7Y9cAGgC:
